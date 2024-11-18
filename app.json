@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "genai",
-    "slug": "genai",
+    "name": "mr_client",
+    "slug": "mr_client",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
